@@ -2,9 +2,4 @@
 �
 �
 
-hhh
-ggg
-mk
-co
-e
-e
+Commit
