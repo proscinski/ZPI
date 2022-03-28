@@ -2,6 +2,4 @@
 �
 �
 
-hhh
-ggg
-mk
+Jakiś commit by Sebastian.
